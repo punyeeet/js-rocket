@@ -18,9 +18,10 @@
     position:absolute;
     left:50%;
     bottom:20px;
-    height:100px;
-    width:20px;
-    background-color: brown;
+    height:288px;
+    width:85px;
+    background: url(../img/rocketmain.png) no-repeat 0 0;
+    
     transition: bottom 5000ms;
 
 }
